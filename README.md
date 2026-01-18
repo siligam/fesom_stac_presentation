@@ -59,6 +59,25 @@ npm run export
 
 The built presentation will be in the `dist/` folder.
 
+### PDF Export Options
+
+**In the Browser:**
+- Click the download button in the presentation toolbar to export to PDF
+- The PDF will include all slides with proper formatting
+
+**From Command Line:**
+```bash
+# Export to PDF with default settings
+npm run export
+
+# Export with custom options
+npx slidev export slides.md --format pdf --output presentation.pdf
+```
+
+**Automatic PDF Generation:**
+- The GitHub Actions workflow automatically generates a PDF during deployment
+- The PDF will be available alongside the HTML version on GitHub Pages
+
 ## GitHub Pages Hosting
 
 This presentation is configured for automatic deployment to GitHub Pages.

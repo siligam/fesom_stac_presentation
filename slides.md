@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 title: STAC Catalogs for FESOM
 mdc: true
+download: true
 ---
 
 # STAC Catalogs for FESOM
