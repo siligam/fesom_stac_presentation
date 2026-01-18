@@ -1,5 +1,8 @@
 # STAC Catalogs for FESOM - Presentation
 
+**Author**: Pavan Siligam  
+**Repository**: https://github.com/siligam/fesom_stac_presentation
+
 A Slidev presentation introducing STAC catalogs and comparing two organizational strategies for FESOM climate model output.
 
 ## Contents
@@ -46,6 +49,14 @@ This will open the presentation in your browser at `http://localhost:3030`
 - **F**: Fullscreen
 - **O**: Toggle overview
 - **D**: Toggle dark mode
+
+### Presenter Mode Features
+
+- **Laser Pointer**: Click and drag on slides to highlight content
+- **Drawing Tools**: Use pen, highlighter, and eraser tools
+- **Notes View**: See presenter notes and next slide preview
+
+Access presenter mode at `http://localhost:3030/presenter/` during development or add `/presenter/` to any deployed presentation URL.
 
 ### Building for Production
 
@@ -170,6 +181,7 @@ The presentation references these files in the repository:
 - [STAC Specification](https://stacspec.org/)
 - [intake-stac](https://github.com/intake/intake-stac)
 - [PySTAC](https://github.com/stac-utils/pystac)
+- [GitHub Repository](https://github.com/siligam/fesom_stac_presentation)
 
 ## License
 

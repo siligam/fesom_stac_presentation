@@ -11,8 +11,11 @@ drawings:
   persist: false
 transition: slide-left
 title: STAC Catalogs for FESOM
+author: Pavan Siligam
+github: https://github.com/siligam/fesom_stac_presentation
 mdc: true
 download: true
+presenter: true
 ---
 
 # STAC Catalogs for FESOM
