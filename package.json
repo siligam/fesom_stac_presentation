@@ -1,0 +1,14 @@
+{
+  "name": "fesom-stac-presentation",
+  "version": "1.0.0",
+  "description": "STAC Catalogs for FESOM presentation",
+  "scripts": {
+    "dev": "slidev slides.md",
+    "build": "slidev build slides.md --base /fesom_stac_presentation/",
+    "export": "slidev export slides.md"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "latest"
+  }
+}
