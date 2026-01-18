@@ -52,11 +52,18 @@ This will open the presentation in your browser at `http://localhost:3030`
 
 ### Presenter Mode Features
 
-- **Laser Pointer**: Click and drag on slides to highlight content
-- **Drawing Tools**: Use pen, highlighter, and eraser tools
+- **Drawing Tools**: Use pen, shapes, and eraser tools to annotate slides
+- **Stylus Support**: Pressure-sensitive drawing for tablet users
 - **Notes View**: See presenter notes and next slide preview
 
 Access presenter mode at `http://localhost:3030/presenter/` during development or add `/presenter/` to any deployed presentation URL.
+
+**Available Drawing Tools:**
+- **Pen/Line**: Freehand drawing
+- **Shapes**: Rectangle and ellipse tools
+- **Eraser**: Remove annotations
+- **Color Picker**: Choose drawing colors
+- **Brush Size**: Adjust line thickness
 
 ### Building for Production
 

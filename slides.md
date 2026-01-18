@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: seriph
 background: https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920
 class: text-center
 highlighter: shiki
@@ -16,6 +16,7 @@ github: https://github.com/siligam/fesom_stac_presentation
 mdc: true
 download: true
 presenter: true
+laser: true
 ---
 
 # STAC Catalogs for FESOM
