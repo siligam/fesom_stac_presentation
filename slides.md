@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 title: STAC Catalogs for FESOM
 author: Pavan Siligam
+date: January 19, 2026
 github: https://github.com/siligam/fesom_stac_presentation
 mdc: true
 download: true
@@ -22,6 +23,12 @@ laser: true
 # STAC Catalogs for FESOM
 
 Organizing Climate Model Output with SpatioTemporal Asset Catalogs
+
+<div class="pt-8">
+  <span class="text-lg opacity-75">Pavan Siligam</span>
+  <br>
+  <span class="text-md opacity-60">January 19, 2026</span>
+</div>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
